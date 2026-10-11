@@ -1,8 +1,6 @@
 {
-  "domain": "https://server-ptrodactyl.hostkitaxmasdetz.my.id",
-  "port": 2037,
-  "wsPort": 2037,
-  "version": "10.0.0",
-  "maintenance": false,
-  "message": "Lanjut Make"
+  "server_url": "http://server-ptrodactyl.hostkitaxmasdetz.my.id:2037",
+  "maintenance": true,
+  "message": "Sabar Perbaikan Soalnya ga mau nyambung server",
+  "version": "10.0.0"
 }
