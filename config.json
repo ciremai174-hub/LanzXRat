@@ -1,6 +1,6 @@
 {
   "server_url": "http://legalkeananstore.pteroq.xyz:3612",
-  "maintenance": true,
+  "maintenance": false,
   "message": "Sabar Perbaikan Soalnya ga mau nyambung server",
   "version": "10.0.0"
 }
