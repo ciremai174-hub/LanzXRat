@@ -1,6 +1,8 @@
 {
-  "server_url": "http://ptrodactyl.panelhostkitamasdetz.my.id:2037",
+  "domain": "ptrodactyl.panelhostkitamasdetz.my.id",
+  "port": 2033,
+  "wsPort": 2033,
   "version": "10.0.0",
   "maintenance": false,
-  "message": "Sabar Yah kacung"
+  "message": "Lanjut Make"
 }
