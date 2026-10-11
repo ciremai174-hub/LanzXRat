@@ -1,6 +1,6 @@
 {
   "server_url": "http://ptrodactyl.panelhostkitamasdetz.my.id:2037",
   "version": "10.0.0",
-  "maintenance": pong,
+  "maintenance": false,
   "message": "Sabar Yah kacung"
 }
