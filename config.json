@@ -1,6 +1,6 @@
 {
   "server_url": "http://server-ptrodactyl.hostkitaxmasdetz.my.id:2031",
-  "maintenance": false,
-  "message": "Sabar Perbaikan Soalnya ga mau nyambung server",
+  "maintenance": true,
+  "message": "Pemasangan Function",
   "version": "10.0.0"
 }
